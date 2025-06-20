@@ -13,7 +13,7 @@ User profile pictures load perfectly on the mobile app using images from the ran
 
 However, on Flutter Web, the images don't show up because of browser security rules called CORS. These rules block images from some websites if they don’t have special permissions.
 
-To handle this smoothly, the web version of the app displays a placeholder with the letter of the user's first and last name instead of the profile picture. This keeps the app looking neat and working well on web.
+That's why I added a profile pictures showing the letters of the user's first and last name instead of the profile picture in the web app. This keeps the app looking neat and working well on web.
 
 ## Mobile view
 
