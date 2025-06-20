@@ -16,14 +16,4 @@ class userModel{
     final avatar=json['picture']['medium'];
     return userModel(name:name,email:email,avatar: avatar);
   }
-  String get webSafeAvatar {
-    if (!kIsWeb) return avatar;
-
-    // Extract gender and number from URL
-    final segments = Uri.parse(avatar).pathSegments;
-    final gender = segments[2]; // "men" or "women"
-    final number = segments[3].replaceAll('.jpg', '');
-
-    return 'https://xsgames.co/randomusers/assets/avatars/${gender == "men" ? "male" : "female"}/$number.jpg';
-  }
 }
