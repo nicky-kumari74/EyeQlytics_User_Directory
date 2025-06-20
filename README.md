@@ -16,7 +16,7 @@
 
 <img src="https://github.com/user-attachments/assets/7da16b35-190f-4899-89ac-1810fe95a544"  height="350" alt="App Screenshot"/>
 
-# Note :-
+# Important Note :-
 User profile pictures load perfectly on the mobile app using images from the randomuser.me API.
 
 However, on Flutter Web, the images don't show up because of browser security rules called CORS. These rules block images from some websites if they don’t have special permissions.
