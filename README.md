@@ -23,4 +23,7 @@ That's why I added a profile pictures showing the letters of the user's first an
 
 <img src="https://github.com/user-attachments/assets/7da16b35-190f-4899-89ac-1810fe95a544"  height="350" alt="App Screenshot"/>
 
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1W88rt9ryQ7vixngGlXZ3Es1RU8nqTh9i/view?usp=sharing)
+
+
 
