@@ -6,5 +6,5 @@
 3. Run with: `flutter run -d chrome`
 
 
-<img src="https://github.com/user-attachments/assets/6b3677ec-8c74-46a8-8628-cdcc071d1f8e" width="200" height="400" alt="App Screenshot"/>
+<img src="https://github.com/user-attachments/assets/6b3677ec-8c74-46a8-8628-cdcc071d1f8e" width="200" height="350" alt="App Screenshot"/>
 
